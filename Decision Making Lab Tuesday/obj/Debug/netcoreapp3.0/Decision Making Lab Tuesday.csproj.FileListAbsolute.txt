@@ -1,0 +1,11 @@
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Decision Making Lab Tuesday\Decision Making Lab Tuesday\bin\Debug\netcoreapp3.0\Decision Making Lab Tuesday.exe
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Decision Making Lab Tuesday\Decision Making Lab Tuesday\bin\Debug\netcoreapp3.0\Decision Making Lab Tuesday.deps.json
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Decision Making Lab Tuesday\Decision Making Lab Tuesday\bin\Debug\netcoreapp3.0\Decision Making Lab Tuesday.runtimeconfig.json
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Decision Making Lab Tuesday\Decision Making Lab Tuesday\bin\Debug\netcoreapp3.0\Decision Making Lab Tuesday.runtimeconfig.dev.json
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Decision Making Lab Tuesday\Decision Making Lab Tuesday\bin\Debug\netcoreapp3.0\Decision Making Lab Tuesday.dll
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Decision Making Lab Tuesday\Decision Making Lab Tuesday\bin\Debug\netcoreapp3.0\Decision Making Lab Tuesday.pdb
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Decision Making Lab Tuesday\Decision Making Lab Tuesday\obj\Debug\netcoreapp3.0\Decision Making Lab Tuesday.csprojAssemblyReference.cache
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Decision Making Lab Tuesday\Decision Making Lab Tuesday\obj\Debug\netcoreapp3.0\Decision Making Lab Tuesday.AssemblyInfoInputs.cache
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Decision Making Lab Tuesday\Decision Making Lab Tuesday\obj\Debug\netcoreapp3.0\Decision Making Lab Tuesday.AssemblyInfo.cs
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Decision Making Lab Tuesday\Decision Making Lab Tuesday\obj\Debug\netcoreapp3.0\Decision Making Lab Tuesday.dll
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Decision Making Lab Tuesday\Decision Making Lab Tuesday\obj\Debug\netcoreapp3.0\Decision Making Lab Tuesday.pdb

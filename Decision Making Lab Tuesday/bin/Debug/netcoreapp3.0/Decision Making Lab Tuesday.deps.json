@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Decision Making Lab Tuesday/1.0.0": {
+        "runtime": {
+          "Decision Making Lab Tuesday.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decision Making Lab Tuesday/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
